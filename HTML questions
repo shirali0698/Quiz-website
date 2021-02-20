@@ -1,0 +1,125 @@
+1.)What does HTML stand for?
+
+a) Hyperlinks and text markup language
+b) Home tool markup language
+c) Hyper text markup language - A 
+d) hyper text material label 
+
+2.)Choose the correct HTML element for the largest heading ?
+
+a) <heading>
+b) <h1> - A
+c) <h6>
+d) <head>
+
+3.)What is the correct HTML for adding a background color?
+
+a) <body style = “background-colour:yellow;”> - A
+b) <background>yellow</background>
+c) <body bg =“yellow”>
+d) <body background = "yellow">
+
+4.)Which character is used to indicate an end tag?
+
+a) / - A
+b) ^
+c) *
+d) <
+
+5.)How can you open a link in a new tab/browser window?
+a) <a href="url" new>
+b) <a href="url" target="_blank"> - A
+c) <a href="url" target="new">
+d) <a href="url" targer">
+
+6.)Inline elements are normally displayed without starting a new line.?
+a) True -A
+b) False 
+
+7.)Which HTML element is used to specify a header for a document or section?
+
+a) <top>
+b) <head>
+c)<header>
+d) <section>
+
+8.)In HTML, what does the <aside> element define?
+a) A navigation list to be shown at the left side of the page
+b) Content aside from the page content - A
+c)The ASCII character-set ; to send information between computers on the internet 
+d)content side to be shown 
+
+9.)Which HTML element is used to display a scalar measurement within a range?
+a) <gauge>
+b) <range>
+c) <meter> - A
+d) <measure>
+
+10)Which input type defines a slider control?
+a) Search 
+b) Range - A
+c) controls 
+d) Slide
+
+11.)In HTML, which attribute is used to specify that an input field must be filled out?
+a) Placeholder
+b) Required - A
+c) Form validate
+d) Validate
+
+12.)The HTML <canvas> element is used to:
+a) draw graphics - A
+b) Display database records
+c) Reate draggable elements 
+d) Manipulate data in mysql 
+
+13.)The HTML global attribute, "contenteditable" is used to: ?
+
+a) eturn the position of the first found occurrence of content  inside a string 
+b) Specifies a context menu for an element the the menu appears when a user right-clicks n the element 
+c) update the content from the server 
+d) Specify the whether the content of an element should be editable or not -  A
+
+14.)In HTML, you can embed SVG elements directly into an HTML page. ?
+a) False 
+b) True - A
+
+15.)Which HTML element is used to specify a footer for a document or section?
+a) <footer> - A
+b) <section>
+c) <bottom>
+d) <header>
+
+16.)Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?
+a) Src
+b) Longdesc
+c) Alt - A
+d) Title
+
+17.)What is the correct HTML for inserting an image?
+a) <image src =“image.gif” alt =“MyImage”>
+b) <img src =“image.gif” alt=“MyImage”> - A
+c) <img href =“image.gif” alt=“MyImage”>
+d) <img alt =“MyImage”>image.gif</img>
+
+18.)What is the correct HTML for making a text area?
+a) <textarea> - A
+b) <input type =“textbox”>
+c) <input type = “textarea”>
+d) <textbox>
+
+19.)How can you make a bulleted list?
+a) <ol>
+b) <list>
+c) <dl>
+d) <ul> - A
+
+20.)Inline elements are normally displayed without starting a new line.?
+a) True - A
+b) False 
+
+
+ 
+
+
+
